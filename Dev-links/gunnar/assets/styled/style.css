@@ -8,8 +8,11 @@
 --red:#dc4266;
 --blue:#3072e6;
 --white:#ffffff;
+--black:#000000;
+
 --background: #850404e7;
 --backgroundLink: #ff0037;
+
 
 --font-family:'Roboto', sans-serifa;
 
@@ -97,12 +100,12 @@ section {
 
     background: var(--backgroundLink);
     
-    color:var(--white);
+    color:var(--black);
     font-size:23px;
     text-decoration: none;
 
     margin-top:5px;
-    padding:10px;
+    padding:20px 10px;
     
     width:100%;
     height: 50px;
